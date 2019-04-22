@@ -1,6 +1,6 @@
-# Battery Time <img src="panel.png" align="right" alt="icon">
+# Battery Time and Percentage <img src="panel.png" align="right" alt="icon">
 
-[<img src="https://raw.githubusercontent.com/luispabon/gnome-shell-extensions-badge/master/get-it-on-ego.svg?sanitize=true" height="100">](https://extensions.gnome.org/extension/1475/battery-time/)
+[<img src="https://raw.githubusercontent.com/luispabon/gnome-shell-battery-time-and-percentage/master/panel.png?sanitize=true">](https://extensions.gnome.org/extension/1771/battery-percentage-and-time/)
 
 A GNOME shell extension to show the remaining time until fully charged/discharged as well as battery charge in percent in the panel.
 
