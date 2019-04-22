@@ -1,4 +1,4 @@
-UUID=batime@martin.zurowietz.de
+UUID=batimepercentage@luis.pabong
 
 default: clean zip
 
