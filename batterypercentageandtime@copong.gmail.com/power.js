@@ -9,6 +9,7 @@ var Indicator = class extends BaseIndicator {
 
       const percentage = this._proxy.Percentage + '%'
 
+      // Ensure percentage label is enabled regardless of gsettings
       this._percentageLabel.visible = true
 
       if (this._proxy.State == UPower.DeviceState.FULLY_CHARGED) {
