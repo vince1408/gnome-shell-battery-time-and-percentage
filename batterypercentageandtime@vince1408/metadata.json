@@ -1,11 +1,11 @@
 
 {
   "shell-version": ["3.28", "3.30", "3.32"],
-  "uuid": "batterypercentageandtime@copong.gmail.com",
-  "url": "https://github.com/luispabon/gnome-shell-batime",
+  "uuid": "batterypercentageandtime@vince1408",
+  "url": "https://github.com/vince1408/gnome-shell-battery-time-and-percentage",
   "settings-schema": "org.gnome.shell.extensions.batterypercentageandtime",
   "gettext-domain": "batterypercentageandtime",
   "version": "1.0.0",
-  "name": "Battery Percentage and Time",
-  "description": "Show the remaining time until fully charged/discharged as well as percentage of battery charge in the panel."
+  "name": "vince - Battery Percentage and Time",
+  "description": "vince : Show the remaining time until fully charged/discharged as well as percentage of battery charge in the panel."
 }
